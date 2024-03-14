@@ -4,13 +4,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/kheronn/projeto-de-vida-turmaBN">
-    <img src="turmabn.png" alt="Logo" width="80" height="80">
+    <img src="turmabn.png" alt="Logo" >
   </a>
 
 <h3 align="center">Projeto de Vida - Turma BN</h3>
 
   <p align="center">
-    Projeto construído no Grupo de Formadores Trilha de Programação II | 2024
+    Projeto construído no Grupo de Formadores Trilha de Programação II | 1ª Jornada de 2024
     <br />
     <a href="https://github.com/kheronn"><strong>Prof. Formador Kheronn Khennedy Machado</strong></a>
     <br />
