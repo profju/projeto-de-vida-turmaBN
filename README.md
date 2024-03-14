@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/kheronn/projeto-de-vida-turmaBN">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="turmabn.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Projeto de Vida - Turma BN</h3>
@@ -39,7 +39,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
-[![Turma BN][turma]](https://github.com/kheronn/projeto-de-vida-turmaBN)
 
 
 
@@ -47,7 +46,7 @@
 ### Tecnologias
 
 * [![HTML][HTML]][HTML]
-* [![CSS][CSS 3]][CSS]
+* [![CSS][CSS]][CSS]
 * [![Javascript][Javascript]][Javascript]
 
 
@@ -57,5 +56,4 @@
 [turma]: turmabn.png
 [HTML]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-
 [Javascript]: https://img.shields.io/badge/logo-javascript-blue?logo=javascript
